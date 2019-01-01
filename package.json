@@ -1,0 +1,17 @@
+{
+  "name": "trayiotest",
+  "version": "1.0.0",
+  "main": "",
+  "scripts": {
+    "test": "node ./src/trayioCreateWorkflowTest.js "
+  },
+  "author": "usha k boddu",
+  "license": "ISC",
+  "description": "TrayIO workflow create/delete test automation",
+  "devDependencies": {
+    "chromedriver": "^2.42.0",
+    "selenium-standalone": "^6.15.3",
+    "selenium-webdriver": "^3.6.0",
+    "webdriverio": "^4.13.2"
+  }
+}
